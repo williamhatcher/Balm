@@ -1,5 +1,5 @@
 # Balm
-
+# DO NOT USE THIS! Use the upstream at https://github.com/ModdingForBlockheads/Balm
 Abstraction Layer (but not really)™ for Blay's multiplatform mods.
 
 I do not recommend other modders to build on this as I will ruthlessly break backwards-compatibility as needed for my mods.
